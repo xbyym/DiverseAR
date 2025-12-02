@@ -11,7 +11,6 @@
   <a href="#">Binxin Yang</a>,
   <a href="#">Hubery Yin</a>,
   <a href="#">Chen Li†</a>,
-  <a href="#">Jing Lyu</a>,
   <a href="#">Chenyang Si†</a>
 </p>
 
