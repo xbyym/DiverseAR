@@ -3,10 +3,6 @@
   <h3 align="center">Boosting Diversity in Bitwise Autoregressive Image Generation</h3>
 </p>
 
-<p align="center">
-  <h1 align="center"><b>DiverseAR</b></h1>
-  <h3 align="center">Boosting Diversity in Bitwise Autoregressive Image Generation</h3>
-</p>
 
 <p align="center">
   <a href="#">Ying Yang<sup>1*</sup></a>,
