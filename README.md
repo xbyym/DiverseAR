@@ -38,7 +38,11 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
 
 
 
+## 🚀 Release
 
+- [x] Paper released  
+- [x] Demo video released  
+- [ ] Code coming soon  
 
 
 
@@ -56,7 +60,7 @@ As shown in the two subplots below, this **collapse of bit-level randomness** re
 
 ---
 
-## 🚀 The DiverseAR Framework
+## 🧩 The DiverseAR Framework
 
 **DiverseAR** is an effective approach that enhances image and video diversity in **bitwise autoregressive modeling** without sacrificing visual quality.  
 It introduces **adaptive logits smoothing** and an **energy-based generation path selection** strategy to achieve richer, more diverse sampling.
