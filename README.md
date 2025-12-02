@@ -32,7 +32,7 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
 
 <div align="center">
 
-[![Video](https://raw.githubusercontent.com/xbyym/DiverseAR/main/thumbnail.png)](https://github.com/user-attachments/assets/b02d88a5-b67f-4829-b6ae-e7d979e6b7f3)
+[![Video](https://raw.githubusercontent.com/xbyym/DiverseAR/main/thumbnail.png)](https://github.com/user-attachments/assets/7596d7ee-2399-428a-8160-28e3af4e8b6c)
 
 </div>
 
