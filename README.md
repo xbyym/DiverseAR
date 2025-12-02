@@ -4,20 +4,33 @@
 </p>
 
 <p align="center">
-  <a href="#">Ying Yang*</a>,
-  <a href="#">Zhengyao Lv*</a>,
-  <a href="#">Tianlin Pan</a>,
-  <a href="#">Haofan Wang</a>,
-  <a href="#">Binxin Yang</a>,
-  <a href="#">Hubery Yin</a>,
-  <a href="#">Chen Li†</a>,
-  <a href="#">Chenyang Si†</a>
+  <h1 align="center"><b>DiverseAR</b></h1>
+  <h3 align="center">Boosting Diversity in Bitwise Autoregressive Image Generation</h3>
 </p>
 
 <p align="center">
-PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI · WeChat, Tencent Inc.<br>
-<i>*Equal Contribution  †Corresponding Author</i>
+  <a href="#">Ying Yang<sup>1*</sup></a>,
+  <a href="#">Zhengyao Lv<sup>2*</sup></a>,
+  <a href="#">Tianlin Pan<sup>1,3</sup></a>,
+  <a href="#">Haofan Wang<sup>4</sup></a>,
+  <a href="#">Binxin Yang<sup>5</sup></a>,
+  <a href="#">Hubery Yin<sup>5</sup></a>,
+  <a href="#">Chen Li<sup>5†</sup></a>,
+  <a href="#">Chenyang Si<sup>1†</sup></a>
 </p>
+
+<p align="center">
+  <sup>1</sup>PRLab, Nanjing University &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>2</sup>The University of Hong Kong &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>3</sup>UCAS &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>4</sup>Lovart AI &nbsp;&nbsp;·&nbsp;&nbsp;
+  <sup>5</sup>WeChat, Tencent Inc.
+</p>
+
+<p align="center">
+  <i>* Equal Contribution &nbsp;&nbsp;&nbsp; † Corresponding Author</i>
+</p>
+
 
 <p align="center">
   <a href="https://arxiv.org/abs/xxxx.xxxxx">
