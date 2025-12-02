@@ -32,28 +32,10 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
 
 <div align="center">
 
-### ▶️ Part 1
-[![](https://github.com/user-attachments/assets/5759c835-65f9-4bf2-ae0a-fcddedc8f60d)](https://github.com/user-attachments/assets/5759c835-65f9-4bf2-ae0a-fcddedc8f60d)
-
-### ▶️ Part 2
-[![](https://github.com/user-attachments/assets/25abd7e7-dc1c-4c22-bca8-f2dca9e751f2)](https://github.com/user-attachments/assets/25abd7e7-dc1c-4c22-bca8-f2dca9e751f2)
-
-### ▶️ Part 3
-[![](https://github.com/user-attachments/assets/807b61c2-7bb2-4f58-9a67-0978f992a5cc)](https://github.com/user-attachments/assets/807b61c2-7bb2-4f58-9a67-0978f992a5cc)
-
-### ▶️ Part 4
-[![](https://github.com/user-attachments/assets/f50c7c1a-8fe7-4bf4-a2f2-72e6c7e43224)](https://github.com/user-attachments/assets/f50c7c1a-8fe7-4bf4-a2f2-72e6c7e43224)
-
-### ▶️ Part 5
-[![](https://github.com/user-attachments/assets/1ae94e48-79bc-4759-bc79-f878be10f27e)](https://github.com/user-attachments/assets/1ae94e48-79bc-4759-bc79-f878be10f27e)
-
-### ▶️ Part 6
-[![](https://github.com/user-attachments/assets/c2f608da-c95b-4b8f-9c5a-07f96a522f57)](https://github.com/user-attachments/assets/c2f608da-c95b-4b8f-9c5a-07f96a522f57)
-
-### ▶️ Part 7
-[![](https://github.com/user-attachments/assets/5505da03-016d-42fe-91ec-4bf899af4c73)](https://github.com/user-attachments/assets/5505da03-016d-42fe-91ec-4bf899af4c73)
+[![Video](https://raw.githubusercontent.com/xbyym/DiverseAR/main/thumbnail.png)](https://github.com/user-attachments/assets/b02d88a5-b67f-4829-b6ae-e7d979e6b7f3)
 
 </div>
+
 
 
 
