@@ -30,11 +30,11 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
 
 ## 🎥 Video Demo
 
-<video width="800" controls>
-  <source src="https://huggingface.co/datasets/yycfq/comparenew/resolve/main/video4/new_video%E6%9C%80%E6%96%B0.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
 
+[![Video](https://raw.githubusercontent.com/xbyym/DiverseAR/main/thumbnail.png)](https://huggingface.co/datasets/yycfq/comparenew/resolve/main/video4/new_video%E6%9C%80%E6%96%B0.mp4)
+
+</div>
 
 
 
