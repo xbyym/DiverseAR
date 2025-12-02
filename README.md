@@ -28,11 +28,20 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
   </a>
 </p>
 
+## 🎥 Video Demo
+
 <p align="center">
-  <img src="https://github.com/xbyym/DiverseAR/blob/main/image.png" width="85%">
+  <iframe width="800" height="450"
+          src="https://www.youtube.com/embed/_nDO3yzAFIw"
+          title="DiverseAR Video Demo"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
 </p>
 
-## The Reason for Bitwise AR Model Degrades Diversity
+
+## 🔥 The Reason for Bitwise AR Model Degrades Diversity
 
 In bitwise autoregressive models, the predicted probabilities often become **overly peaked**, giving one class **near-certain confidence**.  
 This causes **top-p sampling to collapse into a deterministic choice**, removing randomness.  
@@ -46,9 +55,10 @@ As shown in the two subplots below, this **collapse of bit-level randomness** re
 
 ---
 
-## The DiverseAR Framework
+## 🚀 The DiverseAR Framework
 
 **DiverseAR** is an effective approach that enhances image and video diversity in **bitwise autoregressive modeling** without sacrificing visual quality.  
 It introduces **adaptive logits smoothing** and an **energy-based generation path selection** strategy to achieve richer, more diverse sampling.
 
 ![Framework Figure](https://github.com/diverse-ar/diverse-ar.github.io/raw/main/diverse4_01.png)
+
