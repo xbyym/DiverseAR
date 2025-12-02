@@ -27,9 +27,6 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
   <a href="https://diverse-ar.github.io/">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=google-chrome" height="22">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github" height="22">
-  </a>
 </p>
 
 ---
