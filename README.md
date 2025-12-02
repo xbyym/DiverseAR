@@ -30,15 +30,11 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
 
 ## 🎥 Video Demo
 
-<p align="center">
-  <iframe width="800" height="450"
-          src="https://www.youtube.com/embed/_nDO3yzAFIw"
-          title="DiverseAR Video Demo"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-  </iframe>
-</p>
+<video width="800" controls>
+  <source src="video_demo2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🔥 The Reason for Bitwise AR Model Degrades Diversity
