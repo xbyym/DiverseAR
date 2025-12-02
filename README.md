@@ -32,3 +32,23 @@ PRLab, Nanjing University · The University of Hong Kong · UCAS · Lovart AI ·
   <img src="https://github.com/xbyym/DiverseAR/blob/main/image.png" width="85%">
 </p>
 
+## The Reason for Bitwise AR Model Degrades Diversity
+
+In bitwise autoregressive models, the predicted probabilities often become **overly peaked**, giving one class **near-certain confidence**.  
+This causes **top-p sampling to collapse into a deterministic choice**, removing randomness.  
+As shown in the two subplots below, this **collapse of bit-level randomness** restricts feature variation, and diversity degradation mainly arises from  
+**(1) the binary classification nature** of bitwise modeling and  
+**(2) the overconfident output distributions**.
+
+![Reason Figure](https://github.com/diverse-ar/diverse-ar.github.io/raw/main/diverse5_01.png)
+
+**_※ VAR (Visual Autoregressive Modeling) does not inherently lack diversity; the limitation primarily arises from bitwise tokenization._**
+
+---
+
+## The DiverseAR Framework
+
+**DiverseAR** is an effective approach that enhances image and video diversity in **bitwise autoregressive modeling** without sacrificing visual quality.  
+It introduces **adaptive logits smoothing** and an **energy-based generation path selection** strategy to achieve richer, more diverse sampling.
+
+![Framework Figure](https://github.com/diverse-ar/diverse-ar.github.io/raw/main/diverse4_01.png)
