@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+  <a href="[https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2512.02931)">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" height="22">
   </a>
   <a href="https://diverse-ar.github.io/">
