@@ -66,7 +66,7 @@ As shown in the two subplots below, this **collapse of bit-level randomness** re
 
 ![Reason Figure](https://github.com/diverse-ar/diverse-ar.github.io/raw/main/diverse5_01.png)
 
-**_※ VAR (Visual Autoregressive Modeling) does not inherently lack diversity; the limitation primarily arises from bitwise tokenization._**
+**_※ The diversity issue mainly originates from bitwise tokenization, rather than from VAR (Visual Autoregressive Modeling) itself._**
 
 ---
 
