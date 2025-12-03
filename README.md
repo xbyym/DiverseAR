@@ -77,3 +77,16 @@ It introduces **adaptive logits smoothing** and an **energy-based generation pat
 
 ![Framework Figure](https://github.com/diverse-ar/diverse-ar.github.io/raw/main/diverse4_01.png)
 
+## 📚 Citation
+
+If you find this work helpful, please consider citing:
+
+```bibtex
+@article{yang2025diversear,
+  title={DiverseAR: Boosting Diversity in Bitwise Autoregressive Image Generation},
+  author={Yang, Ying and Lv, Zhengyao and Pan, Tianlin and Wang, Haofan and Yang, Binxin and Yin, Hubery and Li, Chen and Si, Chenyang},
+  journal={arXiv preprint arXiv:2512.02931},
+  year={2025}
+}
+```
+
